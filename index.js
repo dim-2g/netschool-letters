@@ -87,7 +87,7 @@ async function fetchLetters(url) {
 			
 		}
 		return {
-			results: results;
+			results: results
 		};
 	});
 	console.log(letters);
